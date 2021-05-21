@@ -1,5 +1,6 @@
 # 🙌 Welcome to my zone 🙌
 
+
 ### 📚 I’m currently studying in **Wecode**
 
 ### 🌱 I’m currently learning **Python3 and Django**
